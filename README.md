@@ -14,6 +14,7 @@ Start Instruction
  3.Run Xampp (Apache, MySQL)
  4.If necessary create in database user (sszafranski)
  5.Log in using:
+ 
     For Admin Account
     Login: admin 
     Password: haslo
