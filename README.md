@@ -5,8 +5,10 @@ Project created during classes in Upper-Secondary Schools of Communications in C
 Consist of simple User Authorization and basics of MySQL
 
 Requirements:
-  1.XAMPP
-  2.MySQL
+
+1.XAMPP
+
+2.MySQL
 
 Start Instruction
 
