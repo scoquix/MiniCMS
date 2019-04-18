@@ -9,10 +9,15 @@ Requirements:
   2.MySQL
 
 Start Instruction
+
  1.Import Database (MySql)
+ 
  2.Add all project folrder to htdocs(XAMPP)
+ 
  3.Run Xampp (Apache, MySQL)
+ 
  4.If necessary create in database user (sszafranski)
+ 
  5.Log in using:
  
     For Admin Account
